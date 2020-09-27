@@ -1,6 +1,12 @@
 # bloc_example
 
-A new Flutter application.
+This is simple flutter bloc application <br />
+What inside the app <br />
+1. Checking the valid email id using bloc <br />
+2.Checking the password atleast 4 character size <br />
+![alt text](https://raw.githubusercontent.com/MujmillahammedDafedar/Flutter_BLOC_Simple_Bloc/master/lib/outputs/1.jpeg) <br />
+![alt text](https://raw.githubusercontent.com/MujmillahammedDafedar/Flutter_BLOC_Simple_Bloc/master/lib/outputs/2.jpeg) 
+
 
 ## Getting Started
 
